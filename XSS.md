@@ -1,8 +1,5 @@
 # 🎯 XSS Hunter — Complete Field Guide
 
-**By Cyberwarlord (Deepak Ghengat)**  
-*100+ accepted reports · Hall of Fame: Google · Zoho · TripAdvisor · Adafruit*
-
 > **Authorised testing only. Always have written permission before testing any target.**
 
 ---
